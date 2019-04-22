@@ -1,0 +1,900 @@
+cidade,regiao,usuarios,novos_usuarios,sessoes,visualizacoes_de_tela,telas_sessao,duracao_media_da_sessao
+Sao Paulo,State of Sao Paulo,1.131,916,2.465,8.445,"3,43",00:03:25
+Rio de Janeiro,State of Rio de Janeiro,885,699,1.434,3.65,"2,55",00:01:36
+Fortaleza,State of Ceara,602,437,1.029,2.514,"2,44",00:01:33
+Belo Horizonte,State of Minas Gerais,482,363,801,2.204,"2,75",00:01:45
+Itajuba,State of Minas Gerais,481,467,812,7.616,"9,38",00:11:59
+Brasilia,Federal District,312,259,524,1.181,"2,25",00:03:16
+Recife,State of Pernambuco,296,219,439,1.13,"2,57",00:01:38
+Curitiba,State of Parana,285,197,540,1.699,"3,15",00:01:59
+Salvador,State of Bahia,270,219,511,1.244,"2,43",00:01:36
+Goiania,State of Goias,260,190,376,954,"2,54",00:01:42
+Porto Alegre,State of Rio Grande do Sul,190,147,329,924,"2,81",00:02:13
+Belem,State of Para,182,147,381,1.482,"3,89",00:05:28
+Sao Luis,State of Maranhao,179,149,283,703,"2,48",00:01:44
+Manaus,State of Amazonas,176,142,379,861,"2,27",00:02:18
+(not set),State of Maranhao,122,106,264,758,"2,87",00:02:37
+(not set),State of Bahia,117,99,228,522,"2,29",00:02:27
+(not set),State of Para,109,90,187,429,"2,29",00:03:09
+(not set),State of Minas Gerais,104,92,182,405,"2,23",00:02:16
+Campinas,State of Sao Paulo,104,80,139,394,"2,83",00:01:20
+Joao Pessoa,State of Paraiba,97,82,164,443,"2,70",00:01:40
+Natal,State of Rio Grande do Norte,87,81,136,389,"2,86",00:02:11
+Campo Grande,State of Mato Grosso do Sul,86,75,138,298,"2,16",00:01:09
+Aracaju,State of Sergipe,70,60,113,255,"2,26",00:01:35
+Chapeco,State of Santa Catarina,69,58,172,731,"4,25",00:03:25
+Maceio,State of Alagoas,68,56,157,477,"3,04",00:02:11
+Teresina,State of Piaui,64,56,100,224,"2,24",00:01:56
+Uberlandia,State of Minas Gerais,62,55,89,219,"2,46",00:01:08
+Florianopolis,State of Santa Catarina,59,47,81,263,"3,25",00:02:41
+Maringa,State of Parana,56,47,109,294,"2,70",00:01:47
+Sao Jose dos Campos,State of Sao Paulo,53,40,132,479,"3,63",00:01:15
+Imperatriz,State of Maranhao,50,42,87,284,"3,26",00:01:56
+Joinville,State of Santa Catarina,46,39,203,425,"2,09",00:01:13
+Cuiaba,State of Mato Grosso,45,39,78,171,"2,19",00:01:55
+(not set),(not set),44,34,47,100,"2,13",00:02:25
+(not set),State of Amazonas,44,43,58,62,"1,07",00:00:48
+Juiz de Fora,State of Minas Gerais,44,42,72,194,"2,69",00:01:24
+(not set),State of Pernambuco,40,31,61,141,"2,31",00:00:55
+Santos,State of Sao Paulo,37,22,58,143,"2,47",00:01:22
+Osasco,State of Sao Paulo,36,32,63,79,"1,25",00:01:25
+Sorocaba,State of Sao Paulo,35,22,53,178,"3,36",00:03:56
+Duque de Caxias,State of Rio de Janeiro,35,27,45,101,"2,24",00:00:57
+Montes Claros,State of Minas Gerais,34,26,51,205,"4,02",00:02:04
+Niteroi,State of Rio de Janeiro,33,30,41,132,"3,22",00:01:13
+(not set),State of Ceara,32,21,42,151,"3,60",00:04:38
+Cascavel,State of Parana,32,22,62,153,"2,47",00:01:42
+Boa Vista,State of Roraima,32,28,59,231,"3,92",00:02:35
+Petrolina,State of Pernambuco,31,28,54,113,"2,09",00:01:04
+(not set),State of Mato Grosso,30,28,43,66,"1,53",00:02:41
+Vila Velha,State of Espirito Santo,30,28,66,157,"2,38",00:01:51
+Ribeirao Preto,State of Sao Paulo,30,24,47,149,"3,17",00:01:04
+Sao Bernardo do Campo,State of Sao Paulo,29,23,36,100,"2,78",00:00:59
+Carapicuiba,State of Sao Paulo,29,27,33,46,"1,39",00:03:00
+Feira de Santana,State of Bahia,28,26,60,173,"2,88",00:02:49
+Santo Andre,State of Sao Paulo,28,24,33,103,"3,12",00:00:55
+(not set),State of Piaui,27,25,41,83,"2,02",00:02:02
+Caruaru,State of Pernambuco,26,21,35,108,"3,09",00:01:13
+Gravatai,State of Rio Grande do Sul,26,17,45,111,"2,47",00:05:51
+(not set),State of Goias,25,23,43,109,"2,53",00:02:03
+Vitoria,State of Espirito Santo,25,20,38,61,"1,61",00:01:12
+Governador Valadares,State of Minas Gerais,25,23,38,74,"1,95",00:00:38
+Porto Velho,State of Rondonia,25,22,37,75,"2,03",00:00:31
+Sao Goncalo,State of Rio de Janeiro,25,24,33,92,"2,79",00:01:26
+Londrina,State of Parana,24,24,39,169,"4,33",00:01:39
+Pelotas,State of Rio Grande do Sul,24,21,45,104,"2,31",00:01:37
+Guarulhos,State of Sao Paulo,24,21,37,76,"2,05",00:00:44
+Arapiraca,State of Alagoas,24,19,41,113,"2,76",00:01:17
+Macapa,State of Amapa,23,18,45,125,"2,78",00:01:07
+Canoas,State of Rio Grande do Sul,23,20,32,57,"1,78",00:00:40
+Sete Lagoas,State of Minas Gerais,22,18,33,88,"2,67",00:01:42
+Uberaba,State of Minas Gerais,22,18,38,101,"2,66",00:01:42
+Campina Grande,State of Paraiba,22,16,38,78,"2,05",00:00:42
+Nova Iguacu,State of Rio de Janeiro,22,21,40,91,"2,28",00:00:32
+Santa Maria,State of Rio Grande do Sul,22,20,27,53,"1,96",00:02:45
+Sunnyvale,California,22,22,22,35,"1,59",00:00:48
+Varginha,State of Minas Gerais,22,18,38,111,"2,92",00:02:55
+Bauru,State of Sao Paulo,21,19,31,132,"4,26",00:04:10
+Patos de Minas,State of Minas Gerais,21,19,29,61,"2,10",00:02:47
+Sobral,State of Ceara,20,19,32,105,"3,28",00:02:38
+Novo Hamburgo,State of Rio Grande do Sul,20,17,39,131,"3,36",00:01:06
+Taubate,State of Sao Paulo,20,16,26,90,"3,46",00:02:20
+Patos,State of Paraiba,19,17,25,60,"2,40",00:03:58
+Xanxere,State of Santa Catarina,19,10,29,93,"3,21",00:01:49
+Jaboatao dos Guararapes,State of Pernambuco,19,15,24,46,"1,92",00:00:50
+Campos dos Goytacazes,State of Rio de Janeiro,18,17,23,54,"2,35",00:01:30
+Sao Vicente,State of Sao Paulo,18,15,28,81,"2,89",00:02:55
+Divinopolis,State of Minas Gerais,17,15,29,125,"4,31",00:02:25
+Sao Jose do Rio Preto,State of Sao Paulo,17,16,20,44,"2,20",00:00:48
+Contagem,State of Minas Gerais,17,15,21,85,"4,05",00:00:59
+Palmas,State of Tocantins,17,15,30,58,"1,93",00:00:50
+Rio Branco,State of Acre,16,14,24,57,"2,38",00:01:02
+Juazeiro do Norte,State of Ceara,16,15,24,62,"2,58",00:01:01
+Ipatinga,State of Minas Gerais,16,15,24,89,"3,71",00:01:47
+Jundiai,State of Sao Paulo,16,12,17,45,"2,65",00:00:59
+Santa Cruz do Capibaribe,State of Pernambuco,16,15,26,63,"2,42",00:01:48
+Santarem,State of Para,15,15,20,31,"1,55",00:01:44
+Cabo Frio,State of Rio de Janeiro,15,9,31,51,"1,65",00:00:19
+Mossoro,State of Rio Grande do Norte,15,14,23,57,"2,48",00:01:41
+Caxias do Sul,State of Rio Grande do Sul,15,14,22,73,"3,32",00:01:23
+Cachoeiro de Itapemirim,State of Espirito Santo,14,13,18,12,"0,67",00:01:33
+Americana,State of Sao Paulo,14,10,30,51,"1,70",00:01:44
+Anapolis,State of Goias,14,11,21,48,"2,29",00:00:27
+Belford Roxo,State of Rio de Janeiro,14,13,15,25,"1,67",00:00:49
+Bezerros,State of Pernambuco,14,13,21,50,"2,38",00:01:56
+Foz do Iguacu,State of Parana,14,10,37,77,"2,08",00:00:39
+Itaborai,State of Rio de Janeiro,14,12,21,63,"3,00",00:01:54
+Praia Grande,State of Sao Paulo,14,10,24,53,"2,21",00:00:29
+(not set),State of Mato Grosso do Sul,13,12,22,62,"2,82",00:02:04
+(not set),State of Paraiba,13,11,16,40,"2,50",00:00:53
+Vitoria da Conquista,State of Bahia,13,13,31,62,"2,00",00:01:34
+Macae,State of Rio de Janeiro,13,12,15,25,"1,67",00:00:42
+Petropolis,State of Rio de Janeiro,13,11,17,32,"1,88",00:01:16
+Criciuma,State of Santa Catarina,13,9,22,63,"2,86",00:03:26
+Presidente Prudente,State of Sao Paulo,13,9,19,66,"3,47",00:01:39
+Garanhuns,State of Pernambuco,13,13,27,62,"2,30",00:02:05
+Rio das Ostras,State of Rio de Janeiro,13,12,20,59,"2,95",00:03:25
+Sao Jose,State of Santa Catarina,13,11,17,39,"2,29",00:02:01
+Sao Miguel do Oeste,State of Santa Catarina,13,12,18,46,"2,56",00:00:49
+Volta Redonda,State of Rio de Janeiro,13,11,20,71,"3,55",00:01:42
+(not set),State of Parana,12,11,13,4,"0,31",00:02:09
+(not set),State of Rio de Janeiro,12,6,27,52,"1,93",00:00:22
+(not set),State of Rondonia,12,12,20,42,"2,10",00:01:02
+(not set),State of Tocantins,12,11,16,40,"2,50",00:03:25
+Alfenas,State of Minas Gerais,12,10,17,31,"1,82",00:00:31
+Dourados,State of Mato Grosso do Sul,12,12,14,33,"2,36",00:01:48
+Ponta Grossa,State of Parana,12,7,13,17,"1,31",00:04:40
+Blumenau,State of Santa Catarina,12,11,16,61,"3,81",00:00:44
+Barueri,State of Sao Paulo,12,8,16,44,"2,75",00:02:45
+Jacarei,State of Sao Paulo,12,11,24,88,"3,67",00:02:15
+Marica,State of Rio de Janeiro,12,11,18,51,"2,83",00:02:51
+Palhoca,State of Santa Catarina,12,6,17,54,"3,18",00:01:30
+Santa Ines,State of Maranhao,12,9,16,41,"2,56",00:01:45
+Serra Talhada,State of Pernambuco,12,11,16,42,"2,62",00:00:42
+(not set),State of Santa Catarina,11,8,15,32,"2,13",00:01:43
+Itabuna,State of Bahia,11,8,21,39,"1,86",00:00:46
+Serra,State of Espirito Santo,11,6,21,38,"1,81",00:00:18
+Sao Leopoldo,State of Rio Grande do Sul,11,7,12,34,"2,83",00:01:20
+Itajai,State of Santa Catarina,11,9,11,21,"1,91",00:02:38
+Araraquara,State of Sao Paulo,11,10,19,68,"3,58",00:01:40
+Aparecida de Goiania,State of Goias,11,9,51,66,"1,29",00:00:48
+Itabira,State of Minas Gerais,11,10,16,44,"2,75",00:02:27
+Itapipoca,State of Ceara,11,9,19,52,"2,74",00:01:49
+Lauro de Freitas,State of Bahia,11,8,14,27,"1,93",00:01:02
+Sao Joao de Meriti,State of Rio de Janeiro,11,11,23,57,"2,48",00:03:22
+Sao Pedro da Aldeia,State of Rio de Janeiro,11,11,19,25,"1,32",00:01:21
+Ananindeua,State of Para,10,9,16,57,"3,56",00:01:55
+Conselheiro Lafaiete,State of Minas Gerais,10,8,15,21,"1,40",00:03:44
+Diamantina,State of Minas Gerais,10,10,11,23,"2,09",00:05:00
+Ituiutaba,State of Minas Gerais,10,10,15,39,"2,60",00:02:33
+Olinda,State of Pernambuco,10,10,12,50,"4,17",00:02:24
+Sao Jose dos Pinhais,State of Parana,10,9,10,25,"2,50",00:00:24
+(not set),State of Sao Paulo,9,7,9,33,"3,67",00:00:50
+Pocos de Caldas,State of Minas Gerais,9,9,12,25,"2,08",00:00:25
+Guarapuava,State of Parana,9,8,15,32,"2,13",00:01:11
+Barra Mansa,State of Rio de Janeiro,9,5,18,42,"2,33",00:00:20
+Indaiatuba,State of Sao Paulo,9,7,11,63,"5,73",00:05:48
+Barra do Corda,State of Maranhao,9,8,20,57,"2,85",00:02:55
+Bento Goncalves,State of Rio Grande do Sul,9,8,14,27,"1,93",00:02:17
+Cabo de Santo Agostinho,State of Pernambuco,9,8,11,29,"2,64",00:01:58
+Caucaia,State of Ceara,9,8,16,38,"2,38",00:03:55
+Caxias,State of Maranhao,9,6,13,38,"2,92",00:04:09
+Gurupi,State of Tocantins,9,9,13,37,"2,85",00:02:10
+Ipojuca,State of Pernambuco,9,7,13,38,"2,92",00:01:46
+Concordia,State of Santa Catarina,9,9,12,27,"2,25",00:00:48
+Juazeiro,State of Bahia,8,7,9,27,"3,00",00:00:56
+Balsas,State of Maranhao,8,8,14,27,"1,93",00:01:17
+Barbacena,State of Minas Gerais,8,8,13,21,"1,62",00:02:16
+Tres Lagoas,State of Mato Grosso do Sul,8,6,10,23,"2,30",00:03:19
+Rondonopolis,State of Mato Grosso,8,6,14,47,"3,36",00:00:25
+Itapeva,State of Sao Paulo,8,5,23,74,"3,22",00:03:31
+Piracicaba,State of Sao Paulo,8,7,10,48,"4,80",00:05:06
+New York,New York,8,5,8,10,"1,25",00:00:05
+Araripina,State of Pernambuco,8,7,13,52,"4,00",00:02:05
+Atibaia,State of Sao Paulo,8,7,9,27,"3,00",00:01:28
+Acailandia,State of Maranhao,8,8,11,32,"2,91",00:04:10
+Betim,State of Minas Gerais,8,7,16,66,"4,12",00:02:52
+Crato,State of Ceara,8,7,9,9,"1,00",00:01:51
+Guaratingueta,State of Sao Paulo,8,7,13,34,"2,62",00:00:39
+Jacobina,State of Bahia,8,7,12,25,"2,08",00:02:34
+Luziania,State of Goias,8,8,12,9,"0,75",00:02:19
+Mage,State of Rio de Janeiro,8,8,19,44,"2,32",00:00:35
+Sumare,State of Sao Paulo,8,7,11,46,"4,18",00:02:11
+Sao Francisco do Sul,State of Santa Catarina,8,8,10,15,"1,50",00:01:02
+Taboao da Serra,State of Sao Paulo,8,7,11,40,"3,64",00:01:21
+Toledo,State of Parana,8,5,21,61,"2,90",00:02:15
+Uba,State of Minas Gerais,8,5,9,22,"2,44",00:00:44
+Juina,State of Mato Grosso,8,7,9,27,"3,00",00:00:50
+(not set),State of Rio Grande do Sul,7,6,10,45,"4,50",00:02:12
+Sao Mateus,State of Espirito Santo,7,6,9,26,"2,89",00:04:15
+Araxa,State of Minas Gerais,7,7,10,18,"1,80",00:00:39
+Lavras,State of Minas Gerais,7,7,15,38,"2,53",00:01:03
+Passos,State of Minas Gerais,7,8,20,71,"3,55",00:01:33
+Maraba,State of Para,7,5,12,62,"5,17",00:03:05
+Nova Friburgo,State of Rio de Janeiro,7,7,9,28,"3,11",00:00:32
+Teresopolis,State of Rio de Janeiro,7,6,10,30,"3,00",00:01:42
+Ji-Parana,State of Rondonia,7,7,9,36,"4,00",00:01:46
+Aracatuba,State of Sao Paulo,7,7,11,29,"2,64",00:01:27
+Sao Carlos,State of Sao Paulo,7,7,9,23,"2,56",00:03:19
+Angra dos Reis,State of Rio de Janeiro,7,5,7,16,"2,29",00:00:24
+Braganca,State of Para,7,3,13,72,"5,54",00:14:02
+Formiga,State of Minas Gerais,7,7,30,61,"2,03",00:01:54
+Leopoldina,State of Minas Gerais,7,7,10,10,"1,00",00:02:07
+Maracanau,State of Ceara,7,7,13,32,"2,46",00:00:37
+Muriae,State of Minas Gerais,7,7,14,26,"1,86",00:00:25
+Sao Jose de Ribamar,State of Maranhao,7,7,8,15,"1,88",00:01:12
+Vitoria de Santo Antao,State of Pernambuco,7,7,9,20,"2,22",00:00:39
+Aguas Lindas de Goias,State of Goias,7,5,10,25,"2,50",00:00:47
+Barao de Cocais,State of Minas Gerais,7,7,9,16,"1,78",00:02:10
+Sao Lourenco do Oeste,State of Santa Catarina,7,5,12,59,"4,92",00:02:39
+Sapucaia do Sul,State of Rio Grande do Sul,7,7,9,21,"2,33",00:01:02
+Rio Grande,State of Rio Grande do Sul,7,7,9,32,"3,56",00:01:56
+Guanambi,State of Bahia,6,6,8,13,"1,62",00:07:46
+Rio Verde,State of Goias,6,5,7,8,"1,14",00:00:15
+Patrocinio,State of Minas Gerais,6,5,15,30,"2,00",00:02:02
+Pirapora,State of Minas Gerais,6,6,14,20,"1,43",00:01:04
+Sao Joao del Rei,State of Minas Gerais,6,6,7,17,"2,43",00:00:57
+Vicosa,State of Minas Gerais,6,6,10,31,"3,10",00:01:04
+Itaituba,State of Para,6,4,8,15,"1,88",00:00:13
+Paulista,State of Pernambuco,6,4,6,20,"3,33",00:02:43
+Apucarana,State of Parana,6,5,16,24,"1,50",00:01:58
+Botucatu,State of Sao Paulo,6,4,7,7,"1,00",<00:00:01
+Braganca Paulista,State of Sao Paulo,6,5,9,18,"2,00",00:00:26
+Franca,State of Sao Paulo,6,5,8,18,"2,25",00:01:44
+Hortolandia,State of Sao Paulo,6,4,7,25,"3,57",00:00:53
+Alvorada,State of Rio Grande do Sul,6,5,6,15,"2,50",00:01:02
+Camaragibe,State of Pernambuco,6,6,8,24,"3,00",00:01:09
+Caratinga,State of Minas Gerais,6,5,6,15,"2,50",00:02:28
+Itapevi,State of Sao Paulo,6,3,9,20,"2,22",00:02:16
+Janauba,State of Minas Gerais,6,5,10,26,"2,60",00:02:54
+Joao Monlevade,State of Minas Gerais,6,5,6,21,"3,50",00:01:26
+Lages,State of Santa Catarina,6,5,7,19,"2,71",00:02:04
+Morrinhos,State of Goias,6,5,13,22,"1,69",00:00:23
+Pouso Alegre,State of Minas Gerais,6,5,7,45,"6,43",00:01:03
+Santo Angelo,State of Rio Grande do Sul,6,5,6,19,"3,17",00:01:06
+Senador Canedo,State of Goias,6,4,14,29,"2,07",00:01:50
+Taquara,State of Rio Grande do Sul,6,6,9,28,"3,11",00:00:51
+Tubarao,State of Santa Catarina,6,5,9,28,"3,11",00:01:58
+Itapiranga,State of Santa Catarina,6,6,7,3,"0,43",00:02:13
+Limeira,State of Sao Paulo,6,3,11,21,"1,91",00:01:21
+Paco do Lumiar,State of Maranhao,6,5,10,44,"4,40",00:02:07
+Mogi das Cruzes,State of Sao Paulo,6,6,6,15,"2,50",00:00:26
+Linhares,State of Espirito Santo,5,5,15,19,"1,27",00:00:45
+Teofilo Otoni,State of Minas Gerais,5,4,8,14,"1,75",00:00:19
+Sinop,State of Mato Grosso,5,3,8,17,"2,12",00:01:03
+Tangara da Serra,State of Mato Grosso,5,4,7,22,"3,14",00:02:29
+Itaperuna,State of Rio de Janeiro,5,4,6,31,"5,17",00:03:10
+Imbituba,State of Santa Catarina,5,4,5,11,"2,20",00:00:22
+Assis,State of Sao Paulo,5,5,8,20,"2,50",00:01:41
+Marilia,State of Sao Paulo,5,4,5,8,"1,60",00:00:10
+Mogi Guacu,State of Sao Paulo,5,4,7,30,"4,29",00:01:52
+Ourinhos,State of Sao Paulo,5,4,8,27,"3,38",00:00:39
+Rio Claro,State of Sao Paulo,5,5,6,13,"2,17",00:00:22
+East Lansing,Michigan,5,5,5,0,"0,00",00:00:00
+Boardman,Oregon,5,5,7,7,"1,00",00:00:00
+Bacabal,State of Maranhao,5,4,6,18,"3,00",00:01:23
+Camacari,State of Bahia,5,3,6,12,"2,00",00:01:02
+Igarassu,State of Pernambuco,5,5,6,9,"1,50",00:00:25
+Iguatu,State of Ceara,5,5,5,29,"5,80",00:01:29
+Ilheus,State of Bahia,5,5,10,18,"1,80",00:00:15
+Lagoa Santa,State of Minas Gerais,5,3,21,40,"1,90",00:02:14
+Madre de Deus,State of Bahia,5,5,9,16,"1,78",00:00:50
+Nilopolis,State of Rio de Janeiro,5,5,7,25,"3,57",00:02:45
+Parnamirim,State of Rio Grande do Norte,5,3,7,13,"1,86",00:00:35
+Queimados,State of Rio de Janeiro,5,4,11,29,"2,64",00:00:43
+Serrinha,State of Bahia,5,5,6,11,"1,83",00:00:32
+Teixeira de Freitas,State of Bahia,5,5,5,12,"2,40",00:04:06
+Itabaianinha,State of Sergipe,5,4,7,6,"0,86",00:00:44
+Joao Pinheiro,State of Minas Gerais,5,4,7,2,"0,29",00:00:47
+Camacari,State of Bahia,5,5,5,7,"1,40",00:01:26
+(not set),State of Alagoas,4,3,7,20,"2,86",00:01:04
+(not set),State of Espirito Santo,4,3,11,15,"1,36",00:00:11
+(not set),State of Rio Grande do Norte,4,4,5,18,"3,60",00:00:29
+(not set),State of Amapa,4,4,6,12,"2,00",00:00:23
+Jequie,State of Bahia,4,4,13,54,"4,15",00:03:43
+Itumbiara,State of Goias,4,1,6,8,"1,33",00:00:22
+Cataguases,State of Minas Gerais,4,3,7,15,"2,14",00:00:36
+Monte Carmelo,State of Minas Gerais,4,3,4,6,"1,50",00:01:47
+Ponta Pora,State of Mato Grosso do Sul,4,3,4,12,"3,00",00:02:46
+Altamira,State of Para,4,4,5,23,"4,60",00:05:21
+Redencao,State of Para,4,4,6,21,"3,50",00:01:43
+Tucurui,State of Para,4,2,5,12,"2,40",00:02:11
+Bage,State of Rio Grande do Sul,4,4,5,12,"2,40",00:01:13
+Uruguaiana,State of Rio Grande do Sul,4,4,5,11,"2,20",00:03:12
+Cacador,State of Santa Catarina,4,3,7,10,"1,43",00:01:43
+Joacaba,State of Santa Catarina,4,3,4,19,"4,75",00:01:16
+Cotia,State of Sao Paulo,4,3,6,34,"5,67",00:01:48
+Cupertino,California,4,4,4,4,"1,00",00:00:00
+Ararangua,State of Santa Catarina,4,4,5,13,"2,60",00:03:45
+Araruama,State of Rio de Janeiro,4,3,7,22,"3,14",00:01:01
+Birigui,State of Sao Paulo,4,2,4,7,"1,75",00:00:18
+Brumado,State of Bahia,4,3,7,15,"2,14",00:02:40
+Cachoeirinha,State of Rio Grande do Sul,4,1,4,9,"2,25",00:00:23
+Cajazeiras,State of Paraiba,4,3,7,14,"2,00",00:00:30
+Campo Mourao,State of Parana,4,3,13,24,"1,85",00:01:04
+Caraguatatuba,State of Sao Paulo,4,2,6,16,"2,67",00:05:12
+Cianorte,State of Parana,4,2,4,20,"5,00",00:04:29
+Congonhas,State of Minas Gerais,4,3,5,9,"1,80",00:00:18
+Eusebio,State of Ceara,4,2,5,10,"2,00",00:00:44
+Guarapari,State of Espirito Santo,4,4,5,10,"2,00",00:00:37
+Guaxupe,State of Minas Gerais,4,4,10,15,"1,50",00:02:54
+Itaberaba,State of Bahia,4,4,6,14,"2,33",00:05:32
+Itu,State of Sao Paulo,4,4,6,34,"5,67",00:00:55
+Jaguaruna,State of Santa Catarina,4,4,6,7,"1,17",00:01:12
+Laguna,State of Santa Catarina,4,4,4,10,"2,50",00:01:14
+Maua,State of Sao Paulo,4,4,5,10,"2,00",00:00:17
+Mogi das Cruzes,State of Sao Paulo,4,3,5,26,"5,20",00:06:04
+Nova Lima,State of Minas Gerais,4,3,5,8,"1,60",00:01:05
+Pacatuba,State of Ceara,4,3,5,13,"2,60",00:03:47
+Palmeira dos Indios,State of Alagoas,4,3,4,12,"3,00",00:01:20
+Parauapebas,State of Para,4,4,5,28,"5,60",00:01:19
+Piraju,State of Sao Paulo,4,4,6,6,"1,00",00:01:10
+Porto Nacional,State of Tocantins,4,4,9,7,"0,78",00:00:12
+Prudentopolis,State of Parana,4,4,8,31,"3,88",00:04:56
+Quixada,State of Ceara,4,3,4,10,"2,50",00:00:24
+Quixeramobim,State of Ceara,4,4,6,30,"5,00",00:00:50
+Santa Barbara d'Oeste,State of Sao Paulo,4,4,7,33,"4,71",00:02:48
+Santa Rita,State of Paraiba,4,4,4,24,"6,00",00:09:02
+Senhor do Bonfim,State of Bahia,4,4,6,11,"1,83",00:00:46
+Sao Bento do Sul,State of Santa Catarina,4,2,8,21,"2,62",00:00:25
+Sao Lourenco,State of Minas Gerais,4,3,7,16,"2,29",00:04:18
+Tiangua,State of Ceara,4,4,9,23,"2,56",00:01:33
+Timbo,State of Santa Catarina,4,3,7,23,"3,29",00:01:32
+Tres Passos,State of Rio Grande do Sul,4,4,6,13,"2,17",00:01:09
+Varzea Grande,State of Mato Grosso,4,3,10,11,"1,10",00:00:03
+Caico,State of Rio Grande do Norte,4,2,6,5,"0,83",00:01:38
+Currais Novos,State of Rio Grande do Norte,4,4,4,11,"2,75",00:00:38
+Dois Irmaos,State of Rio Grande do Sul,4,3,4,11,"2,75",00:05:26
+Itambe,State of Pernambuco,4,4,8,19,"2,38",00:00:59
+Luis Eduardo Magalhaes,State of Bahia,4,4,5,14,"2,80",00:04:51
+Pesqueira,State of Pernambuco,4,3,9,23,"2,56",00:01:28
+Pirapozinho,State of Sao Paulo,4,3,5,3,"0,60",00:05:00
+Porto Uniao,State of Santa Catarina,4,4,15,54,"3,60",00:01:08
+Estancia,State of Sergipe,4,4,4,1,"0,25",00:02:28
+Irece,State of Bahia,4,4,9,23,"2,56",00:00:51
+Maranguape,State of Ceara,4,3,6,7,"1,17",00:00:54
+Porto Seguro,State of Bahia,4,3,6,16,"2,67",00:00:23
+(not set),State of Roraima,3,3,3,13,"4,33",00:12:51
+Barreiras,State of Bahia,3,2,3,6,"2,00",00:00:15
+Itapetinga,State of Bahia,3,2,3,2,"0,67",00:00:04
+Ouro Preto,State of Minas Gerais,3,2,3,5,"1,67",00:00:07
+Unai,State of Minas Gerais,3,3,3,6,"2,00",00:00:24
+Alta Floresta,State of Mato Grosso,3,3,3,0,"0,00",00:12:22
+Castanhal,State of Para,3,1,4,16,"4,00",00:01:27
+Sao Mateus do Sul,State of Parana,3,2,3,2,"0,67",00:09:59
+Seropedica,State of Rio de Janeiro,3,3,4,7,"1,75",00:00:21
+Passo Fundo,State of Rio Grande do Sul,3,3,4,12,"3,00",00:01:22
+Braco do Norte,State of Santa Catarina,3,3,7,19,"2,71",00:00:43
+Bariri,State of Sao Paulo,3,2,4,9,"2,25",00:00:18
+Barretos,State of Sao Paulo,3,3,4,19,"4,75",00:02:24
+Limeira,State of Sao Paulo,3,3,3,4,"1,33",00:02:41
+Lins,State of Sao Paulo,3,0,3,9,"3,00",00:00:13
+Mococa,State of Sao Paulo,3,1,34,79,"2,32",00:00:16
+Sao Caetano do Sul,State of Sao Paulo,3,2,4,14,"3,50",00:01:03
+Dearborn,Michigan,3,2,3,1,"0,33",00:00:00
+Abreu e Lima,State of Pernambuco,3,2,8,16,"2,00",00:00:16
+Alegrete,State of Rio Grande do Sul,3,3,5,5,"1,00",<00:00:01
+Andradina,State of Sao Paulo,3,2,4,30,"7,50",00:00:31
+Aquiraz,State of Ceara,3,2,3,7,"2,33",00:00:43
+Araucaria,State of Parana,3,2,3,3,"1,00",00:00:13
+Arcoverde,State of Pernambuco,3,2,4,5,"1,25",00:00:15
+Balneario Camboriu,State of Santa Catarina,3,3,3,8,"2,67",00:00:40
+Brusque,State of Santa Catarina,3,3,4,25,"6,25",00:03:24
+Camboriu,State of Santa Catarina,3,3,5,7,"1,40",00:00:12
+Campo Bom,State of Rio Grande do Sul,3,3,3,8,"2,67",00:00:33
+Candelaria,State of Rio Grande do Sul,3,3,4,2,"0,50",00:01:09
+Carpina,State of Pernambuco,3,2,3,6,"2,00",00:00:34
+Codo,State of Maranhao,3,2,3,6,"2,00",00:01:59
+Dois Corregos,State of Sao Paulo,3,2,5,11,"2,20",00:05:51
+Escada,State of Pernambuco,3,3,5,7,"1,40",00:00:06
+Esteio,State of Rio Grande do Sul,3,3,4,8,"2,00",00:01:05
+Estancia,State of Sergipe,3,3,4,5,"1,25",00:02:35
+Extrema,State of Minas Gerais,3,2,6,7,"1,17",00:00:01
+Frederico Westphalen,State of Rio Grande do Sul,3,3,3,4,"1,33",00:06:56
+Gloria do Goita,State of Pernambuco,3,3,6,5,"0,83",00:07:44
+Gravata,State of Pernambuco,3,3,5,18,"3,60",00:02:01
+Guapimirim,State of Rio de Janeiro,3,2,5,10,"2,00",00:00:10
+Guaruja,State of Sao Paulo,3,2,4,13,"3,25",00:01:27
+Ibirite,State of Minas Gerais,3,3,4,8,"2,00",00:00:15
+Igarape,State of Minas Gerais,3,2,4,26,"6,50",00:01:34
+Ipira,State of Bahia,3,3,3,14,"4,67",00:09:58
+Itamaraca,State of Pernambuco,3,3,5,6,"1,20",00:00:17
+Itauna,State of Minas Gerais,3,2,3,4,"1,33",00:00:03
+Januaria,State of Minas Gerais,3,3,3,4,"1,33",00:00:10
+Jaragua do Sul,State of Santa Catarina,3,3,6,26,"4,33",00:07:57
+Lagoa da Prata,State of Minas Gerais,3,3,4,16,"4,00",00:00:55
+Mafra,State of Santa Catarina,3,3,7,8,"1,14",00:00:02
+Mandaguacu,State of Parana,3,3,7,10,"1,43",00:00:04
+Maragogi,State of Alagoas,3,1,3,6,"2,00",00:00:31
+Marau,State of Rio Grande do Sul,3,2,5,12,"2,40",00:00:32
+Marechal Candido Rondon,State of Parana,3,2,6,5,"0,83",00:00:30
+Neropolis,State of Goias,3,3,6,7,"1,17",00:00:05
+Nova Londrina,State of Parana,3,3,8,22,"2,75",00:03:11
+Oliveira,State of Minas Gerais,3,3,3,8,"2,67",00:00:25
+Ouro Branco,State of Minas Gerais,3,3,4,14,"3,50",00:01:04
+Ouro Fino,State of Minas Gerais,3,3,5,12,"2,40",00:00:21
+Paranavai,State of Parana,3,2,7,18,"2,57",00:02:25
+Parnaiba,State of Piaui,3,3,3,10,"3,33",00:08:28
+Pinheiral,State of Rio de Janeiro,3,3,5,0,"0,00",00:07:37
+Pitanga,State of Parana,3,3,8,18,"2,25",00:04:01
+Porto Seguro,State of Bahia,3,2,4,8,"2,00",00:00:15
+Poa,State of Sao Paulo,3,2,4,12,"3,00",00:01:13
+Primavera do Leste,State of Mato Grosso,3,3,3,12,"4,00",00:05:37
+Salto,State of Sao Paulo,3,3,3,18,"6,00",00:13:13
+Santa Luzia,State of Minas Gerais,3,3,4,14,"3,50",00:03:23
+Santana de Parnaiba,State of Sao Paulo,3,3,5,8,"1,60",00:02:52
+Saquarema,State of Rio de Janeiro,3,1,3,7,"2,33",00:00:20
+Saubara,State of Bahia,3,3,4,21,"5,25",00:00:59
+Sorriso,State of Mato Grosso,3,2,8,13,"1,62",00:00:09
+Tatui,State of Sao Paulo,3,3,3,4,"1,33",00:00:03
+Teutonia,State of Rio Grande do Sul,3,3,3,5,"1,67",00:02:13
+Timoteo,State of Minas Gerais,3,2,4,8,"2,00",00:00:49
+Valenca,State of Bahia,3,2,4,4,"1,00",00:00:57
+Videira,State of Santa Catarina,3,2,6,33,"5,50",00:01:20
+Andradas,State of Minas Gerais,3,3,6,17,"2,83",00:00:30
+Guarabira,State of Paraiba,3,1,3,9,"3,00",00:00:20
+Jaragua,State of Goias,3,3,3,13,"4,33",00:06:50
+Muzambinho,State of Minas Gerais,3,2,5,8,"1,60",00:00:11
+Palmares,State of Pernambuco,3,3,5,15,"3,00",00:00:37
+Sananduva,State of Rio Grande do Sul,3,3,5,7,"1,40",00:02:05
+Sao Jose de Piranhas,State of Paraiba,3,3,4,5,"1,25",00:01:44
+Seabra,State of Bahia,3,3,5,9,"1,80",00:00:29
+Vilhena,State of Rondonia,3,2,4,5,"1,25",00:00:01
+Penapolis,State of Sao Paulo,3,3,4,15,"3,75",00:02:41
+Cornelio Procopio,State of Parana,3,3,3,4,"1,33",00:16:26
+Promissao,State of Sao Paulo,3,3,4,3,"0,75",00:00:16
+Ilheus,State of Bahia,3,3,5,13,"2,60",00:09:49
+Bom Despacho,State of Minas Gerais,3,2,3,11,"3,67",00:04:26
+Avare,State of Sao Paulo,3,3,4,16,"4,00",00:02:30
+Ouro Preto,State of Minas Gerais,3,3,4,13,"3,25",00:00:48
+Pirai,State of Rio de Janeiro,3,3,4,5,"1,25",00:00:19
+Cruz das Almas,State of Bahia,3,2,6,8,"1,33",00:01:26
+Osorio,State of Rio Grande do Sul,3,3,4,12,"3,00",00:01:33
+Nova Santa Rita,State of Rio Grande do Sul,3,3,9,11,"1,22",00:00:15
+Timon,State of Maranhao,3,3,4,13,"3,25",00:01:25
+Araruama,State of Rio de Janeiro,3,2,13,26,"2,00",00:00:22
+(not set),State of Sergipe,2,2,2,12,"6,00",00:01:49
+(not set),State of Acre,2,1,2,1,"0,50",00:00:00
+Santo Antonio de Jesus,State of Bahia,2,0,7,23,"3,29",00:01:17
+Caninde,State of Ceara,2,1,2,8,"4,00",00:00:31
+Castelo,State of Espirito Santo,2,2,2,3,"1,50",00:00:12
+Colatina,State of Espirito Santo,2,1,3,4,"1,33",00:00:04
+Catalao,State of Goias,2,2,2,8,"4,00",00:01:10
+Caceres,State of Mato Grosso,2,2,3,3,"1,00",00:13:40
+Manhuacu,State of Minas Gerais,2,2,3,11,"3,67",00:01:12
+Tres Coracoes,State of Minas Gerais,2,2,10,19,"1,90",00:01:28
+Corumba,State of Mato Grosso do Sul,2,2,4,0,"0,00",00:00:00
+Ibaiti,State of Parana,2,2,2,3,"1,50",00:00:20
+Santo Antonio da Platina,State of Parana,2,1,2,4,"2,00",00:00:14
+Porto Real,State of Rio de Janeiro,2,2,4,8,"2,00",00:01:06
+Cacoal,State of Rondonia,2,2,2,2,"1,00",00:00:05
+Camaqua,State of Rio Grande do Sul,2,2,2,1,"0,50",00:00:10
+Erechim,State of Rio Grande do Sul,2,2,3,8,"2,67",00:00:59
+Flores da Cunha,State of Rio Grande do Sul,2,2,2,7,"3,50",00:01:32
+Guapore,State of Rio Grande do Sul,2,2,4,2,"0,50",00:06:47
+Rio Grande,State of Rio Grande do Sul,2,1,2,7,"3,50",00:01:05
+Santa Cruz do Sul,State of Rio Grande do Sul,2,2,3,0,"0,00",00:00:00
+Concordia,State of Santa Catarina,2,1,2,8,"4,00",00:00:40
+Dracena,State of Sao Paulo,2,2,3,0,"0,00",00:00:00
+Fernandopolis,State of Sao Paulo,2,2,2,14,"7,00",00:02:00
+Itapetininga,State of Sao Paulo,2,2,3,13,"4,33",00:01:03
+Lorena,State of Sao Paulo,2,1,2,6,"3,00",00:00:36
+Paulinia,State of Sao Paulo,2,1,2,5,"2,50",00:00:13
+Sao Joao da Boa Vista,State of Sao Paulo,2,0,2,6,"3,00",00:00:04
+Araguaina,State of Tocantins,2,2,4,8,"2,00",00:00:26
+London,England,2,2,2,3,"1,50",00:00:10
+Asuncion,(not set),2,2,2,4,"2,00",00:00:13
+Newark,California,2,2,2,2,"1,00",00:00:00
+Santa Clara,California,2,1,2,0,"0,00",00:00:00
+Okemos,Michigan,2,1,2,2,"1,00",00:00:00
+San Antonio,Texas,2,2,2,0,"0,00",00:00:00
+Abaetetuba,State of Para,2,1,2,2,"1,00",00:00:35
+Almirante Tamandare,State of Parana,2,2,5,21,"4,20",00:01:05
+Aquidauana,State of Mato Grosso do Sul,2,2,2,4,"2,00",00:02:29
+Araras,State of Sao Paulo,2,2,3,14,"4,67",00:01:02
+Barbalha,State of Ceara,2,2,5,6,"1,20",00:00:06
+Bebedouro,State of Sao Paulo,2,2,5,17,"3,40",00:00:59
+Bom Jardim,State of Rio de Janeiro,2,2,4,3,"0,75",00:00:00
+Bom Jesus do Itabapoana,State of Rio de Janeiro,2,1,4,12,"3,00",00:00:42
+Bombinhas,State of Santa Catarina,2,1,2,5,"2,50",00:01:12
+Bonito,State of Mato Grosso do Sul,2,1,2,3,"1,50",00:00:00
+Cabreuva,State of Sao Paulo,2,2,3,10,"3,33",00:00:58
+Caldas Novas,State of Goias,2,1,2,3,"1,50",00:00:04
+Cambara,State of Parana,2,2,3,25,"8,33",00:00:33
+Cameta,State of Para,2,1,2,2,"1,00",00:00:01
+Campo Belo,State of Minas Gerais,2,1,2,5,"2,50",00:00:19
+Campo Largo,State of Parana,2,1,3,9,"3,00",00:00:54
+Cantagalo,State of Rio de Janeiro,2,2,3,5,"1,67",00:08:57
+Capao Bonito,State of Sao Paulo,2,2,3,0,"0,00",00:00:00
+Carangola,State of Minas Gerais,2,2,3,5,"1,67",00:00:16
+Carlos Barbosa,State of Rio Grande do Sul,2,2,3,8,"2,67",00:00:28
+Carmo,State of Rio de Janeiro,2,1,4,12,"3,00",00:01:14
+Chapadinha,State of Maranhao,2,0,6,9,"1,50",00:00:06
+Clevelandia,State of Parana,2,1,3,7,"2,33",00:07:08
+Colombo,State of Parana,2,2,6,19,"3,17",00:01:10
+Cordeiropolis,State of Sao Paulo,2,2,2,0,"0,00",00:00:00
+Crateus,State of Ceara,2,2,3,16,"5,33",00:01:24
+Diadema,State of Sao Paulo,2,2,2,2,"1,00",00:00:00
+Dois Vizinhos,State of Parana,2,2,2,7,"3,50",00:01:40
+Embu,State of Sao Paulo,2,2,2,4,"2,00",00:00:24
+Estrela,State of Rio Grande do Sul,2,2,3,4,"1,33",00:00:16
+Farroupilha,State of Rio Grande do Sul,2,2,3,6,"2,00",00:03:38
+Frutal,State of Minas Gerais,2,2,4,4,"1,00",00:00:01
+Goioere,State of Parana,2,2,3,4,"1,33",00:00:06
+Gramado,State of Rio Grande do Sul,2,1,2,6,"3,00",00:02:17
+Guapo,State of Goias,2,2,2,5,"2,50",00:00:32
+Guaiba,State of Rio Grande do Sul,2,1,3,11,"3,67",00:06:21
+Holambra,State of Sao Paulo,2,1,2,5,"2,50",00:00:25
+Ibatiba,State of Espirito Santo,2,2,2,2,"1,00",00:00:57
+Ico,State of Ceara,2,2,2,8,"4,00",00:01:50
+Indaial,State of Santa Catarina,2,2,2,1,"0,50",00:00:00
+Itabaiana,State of Sergipe,2,2,2,7,"3,50",00:05:09
+Itapecerica da Serra,State of Sao Paulo,2,2,3,3,"1,00",00:08:49
+Itapolis,State of Sao Paulo,2,1,2,7,"3,50",00:00:27
+Jaboticabal,State of Sao Paulo,2,2,2,3,"1,50",00:01:02
+Jacarezinho,State of Parana,2,2,5,19,"3,80",00:03:31
+Jacutinga,State of Minas Gerais,2,2,2,2,"1,00",00:00:12
+Jales,State of Sao Paulo,2,1,2,4,"2,00",00:00:33
+Lagarto,State of Sergipe,2,2,2,1,"0,50",00:00:00
+Lencois Paulista,State of Sao Paulo,2,1,3,10,"3,33",00:02:10
+Maranguape,State of Ceara,2,1,13,24,"1,85",00:02:20
+Mariana,State of Minas Gerais,2,2,4,7,"1,75",00:00:18
+Matao,State of Sao Paulo,2,2,2,3,"1,50",00:00:09
+Medianeira,State of Parana,2,2,2,11,"5,50",00:05:28
+Mesquita,State of Rio de Janeiro,2,1,2,5,"2,50",00:00:33
+Montanha,State of Espirito Santo,2,2,3,0,"0,00",00:02:59
+Nova Hartz,State of Rio Grande do Sul,2,1,2,7,"3,50",00:01:03
+Palmeira,State of Parana,2,1,3,17,"5,67",00:01:23
+Paracatu,State of Minas Gerais,2,2,3,16,"5,33",00:01:55
+Paraguacu Paulista,State of Sao Paulo,2,2,2,2,"1,00",00:00:00
+Para de Minas,State of Minas Gerais,2,2,3,6,"2,00",00:00:46
+Pato Branco,State of Parana,2,1,2,3,"1,50",00:06:40
+Pedro Leopoldo,State of Minas Gerais,2,1,2,3,"1,50",00:00:47
+Picos,State of Piaui,2,2,2,14,"7,00",00:02:38
+Piripiri,State of Piaui,2,2,2,0,"0,00",00:03:09
+Piuma,State of Espirito Santo,2,2,2,3,"1,50",00:00:21
+Ponte Nova,State of Minas Gerais,2,2,2,12,"6,00",00:01:46
+Pontes e Lacerda,State of Mato Grosso,2,2,4,0,"0,00",00:03:20
+Queimadas,State of Bahia,2,2,2,5,"2,50",00:03:27
+Queimadas,State of Paraiba,2,1,2,2,"1,00",00:02:20
+Resende,State of Rio de Janeiro,2,1,2,8,"4,00",00:01:03
+Reserva,State of Parana,2,1,2,6,"3,00",00:04:01
+Ribeirao das Neves,State of Minas Gerais,2,2,2,9,"4,50",00:01:06
+Rio Bonito,State of Rio de Janeiro,2,2,3,1,"0,33",00:00:00
+Sapiranga,State of Rio Grande do Sul,2,2,7,12,"1,71",00:00:07
+Sapucaia,State of Rio de Janeiro,2,1,4,10,"2,50",00:00:38
+Serra Negra,State of Sao Paulo,2,2,2,8,"4,00",00:00:40
+Siqueira Campos,State of Parana,2,2,3,15,"5,00",00:03:06
+Sousa,State of Paraiba,2,2,2,7,"3,50",00:00:58
+Sao Cristovao,State of Sergipe,2,2,2,8,"4,00",00:02:15
+Sao Gabriel,State of Rio Grande do Sul,2,2,2,1,"0,50",00:05:57
+Sao Lourenco da Mata,State of Pernambuco,2,2,2,4,"2,00",00:00:46
+Sao Lourenco do Sul,State of Rio Grande do Sul,2,2,3,0,"0,00",00:08:12
+Sao Pedro,State of Sao Paulo,2,2,3,14,"4,67",00:00:40
+Sao Sebastiao do Paraiso,State of Minas Gerais,2,2,2,4,"2,00",00:02:00
+Tres Rios,State of Rio de Janeiro,2,2,2,4,"2,00",00:00:26
+Uniao dos Palmares,State of Alagoas,2,2,4,10,"2,50",00:00:26
+Venancio Aires,State of Rio Grande do Sul,2,2,4,7,"1,75",00:00:14
+Votuporanga,State of Sao Paulo,2,2,2,2,"1,00",00:11:08
+Varzea Paulista,State of Sao Paulo,2,2,2,6,"3,00",00:02:06
+Boa Esperanca,State of Minas Gerais,2,1,2,9,"4,50",00:00:50
+Bom Jesus da Lapa,State of Bahia,2,2,2,8,"4,00",00:00:47
+Buritama,State of Sao Paulo,2,2,4,8,"2,00",00:07:59
+Capinzal,State of Santa Catarina,2,2,2,2,"1,00",00:00:00
+Espera Feliz,State of Minas Gerais,2,2,4,11,"2,75",00:00:38
+Lucas do Rio Verde,State of Mato Grosso,2,2,2,7,"3,50",00:01:48
+Manhumirim,State of Minas Gerais,2,2,2,4,"2,00",00:00:51
+Santa Maria de Jetiba,State of Espirito Santo,2,2,2,5,"2,50",00:00:38
+Santana do Ipanema,State of Alagoas,2,2,7,28,"4,00",00:01:12
+Simao Dias,State of Sergipe,2,1,9,35,"3,89",00:02:00
+Terra Roxa,State of Parana,2,2,5,15,"3,00",00:01:39
+Bady Bassitt,State of Sao Paulo,2,2,2,7,"3,50",00:00:34
+Marechal Deodoro,State of Alagoas,2,2,2,7,"3,50",00:01:37
+Bonito,State of Pernambuco,2,2,10,22,"2,20",00:00:34
+Matao,State of Sao Paulo,2,1,2,6,"3,00",00:00:46
+Porto Belo,State of Santa Catarina,2,2,2,3,"1,50",00:00:08
+Fazenda Rio Grande,State of Parana,2,2,2,6,"3,00",00:03:31
+Ubatuba,State of Sao Paulo,2,2,4,10,"2,50",00:00:21
+Marituba,State of Para,2,1,2,2,"1,00",00:00:00
+Valinhos,State of Sao Paulo,2,1,2,4,"2,00",00:00:28
+Toritama,State of Pernambuco,2,2,2,8,"4,00",00:02:18
+Valparaiso de Goias,State of Goias,2,1,2,3,"1,50",00:00:14
+Artur Nogueira,State of Sao Paulo,2,2,3,18,"6,00",00:01:58
+Jandira,State of Sao Paulo,2,1,2,3,"1,50",00:00:03
+Planaltina,State of Goias,2,2,2,7,"3,50",00:01:09
+Torres,State of Rio Grande do Sul,2,1,2,4,"2,00",00:00:08
+Sabara,State of Minas Gerais,2,2,2,6,"3,00",00:00:49
+Santana do Livramento,State of Rio Grande do Sul,2,2,2,3,"1,50",00:00:45
+Assu,State of Rio Grande do Norte,2,2,2,0,"0,00",00:00:18
+(not set),Misiones Province,1,1,1,1,"1,00",00:00:01
+(not set),Nevada,1,0,1,1,"1,00",00:00:00
+(not set),Tuscany,1,0,1,2,"2,00",00:00:01
+(not set),Western Region,1,0,1,5,"5,00",00:00:24
+Oranjestad,(not set),1,0,1,0,"0,00",00:00:00
+Vicente Lopez,Buenos Aires Province,1,0,1,2,"2,00",00:00:02
+Buenos Aires,Buenos Aires,1,0,1,1,"1,00",00:00:00
+Alagoinhas,State of Bahia,1,1,1,1,"1,00",00:00:00
+Eunapolis,State of Bahia,1,1,1,0,"0,00",00:09:43
+Ceres,State of Goias,1,1,1,2,"2,00",00:00:52
+Trindade,State of Goias,1,1,1,1,"1,00",00:00:00
+Arcos,State of Minas Gerais,1,1,3,8,"2,67",00:00:27
+Presidente Epitacio,State of Sao Paulo,1,1,1,2,"2,00",00:00:15
+Paragominas,State of Para,1,1,1,4,"4,00",00:05:15
+Cornelio Procopio,State of Parana,1,1,2,9,"4,50",00:02:40
+Palmas,State of Parana,1,1,1,0,"0,00",00:00:00
+Paranagua,State of Parana,1,1,2,30,"15,00",00:02:11
+Umuarama,State of Parana,1,1,1,4,"4,00",00:01:17
+Sao Jose do Vale do Rio Preto,State of Rio de Janeiro,1,1,1,2,"2,00",00:00:17
+Parobe,State of Rio Grande do Sul,1,1,1,0,"0,00",00:00:00
+Santa Rosa,State of Rio Grande do Sul,1,1,1,2,"2,00",00:00:33
+Santana do Livramento,State of Rio Grande do Sul,1,1,1,0,"0,00",00:05:37
+Torres,State of Rio Grande do Sul,1,1,1,7,"7,00",00:02:41
+Vacaria,State of Rio Grande do Sul,1,1,2,0,"0,00",00:00:00
+Canoinhas,State of Santa Catarina,1,1,1,2,"2,00",00:00:12
+Curitibanos,State of Santa Catarina,1,1,2,0,"0,00",00:08:53
+Avare,State of Sao Paulo,1,1,1,11,"11,00",00:03:02
+Catanduva,State of Sao Paulo,1,1,1,4,"4,00",00:01:59
+Cubatao,State of Sao Paulo,1,1,3,6,"2,00",00:00:08
+Leme,State of Sao Paulo,1,1,1,0,"0,00",00:37:30
+Pindamonhangaba,State of Sao Paulo,1,1,1,3,"3,00",00:01:36
+Registro,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Ribeirao Pires,State of Sao Paulo,1,0,1,2,"2,00",00:00:38
+Suzano,State of Sao Paulo,1,1,1,6,"6,00",00:02:21
+Vancouver,British Columbia,1,1,1,2,"2,00",00:00:17
+Toronto,Ontario,1,1,1,2,"2,00",00:01:07
+Frankfurt,Hesse,1,0,1,0,"0,00",00:00:00
+Wiesbaden,Hesse,1,1,4,0,"0,00",00:00:00
+Madrid,Madrid,1,0,1,0,"0,00",00:00:00
+Paris,Ile-de-France,1,0,1,2,"2,00",00:00:02
+Hong Kong,(not set),1,1,1,1,"1,00",00:00:00
+Jakarta,Jakarta,1,1,1,4,"4,00",00:01:48
+Cork,County Cork,1,1,1,2,"2,00",00:00:31
+Reykjavik,Capital Region,1,0,1,6,"6,00",00:01:24
+Rome,Lazio,1,0,1,1,"1,00",00:00:00
+Washington,District of Columbia,1,0,2,6,"3,00",00:00:09
+Pensacola,Florida,1,1,1,1,"1,00",00:00:00
+Des Moines,Iowa,1,1,1,0,"0,00",00:00:00
+Trenton,Illinois,1,1,1,1,"1,00",00:00:00
+Rockwood,Michigan,1,1,1,0,"0,00",00:00:00
+Clifton,New Jersey,1,1,1,1,"1,00",00:00:00
+North Bergen,New Jersey,1,1,1,1,"1,00",00:00:00
+Afonso Claudio,State of Espirito Santo,1,1,1,1,"1,00",00:00:00
+Aguai,State of Sao Paulo,1,1,1,7,"7,00",00:00:47
+Alagoa Grande,State of Paraiba,1,1,1,3,"3,00",00:00:57
+Amparo,State of Sao Paulo,1,1,1,2,"2,00",00:00:23
+Americo Brasiliense,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Anchieta,State of Espirito Santo,1,1,1,2,"2,00",00:00:19
+Andira,State of Parana,1,1,1,2,"2,00",00:01:00
+Aparecida,State of Sao Paulo,1,1,1,13,"13,00",00:01:36
+Aracruz,State of Espirito Santo,1,1,1,5,"5,00",00:00:33
+Araguari,State of Minas Gerais,1,1,1,1,"1,00",00:00:02
+Ariquemes,State of Rondonia,1,1,1,3,"3,00",00:01:33
+Arraial do Cabo,State of Rio de Janeiro,1,0,1,1,"1,00",00:00:00
+Arroio dos Ratos,State of Rio Grande do Sul,1,1,1,0,"0,00",00:00:00
+Aruja,State of Sao Paulo,1,1,1,3,"3,00",00:01:13
+Assai,State of Parana,1,1,1,2,"2,00",00:01:45
+Assis Chateaubriand,State of Parana,1,0,1,3,"3,00",00:10:03
+Astorga,State of Parana,1,1,1,0,"0,00",00:21:53
+Barra Bonita,State of Sao Paulo,1,0,2,10,"5,00",00:01:47
+Barra de Sao Francisco,State of Espirito Santo,1,1,2,7,"3,50",00:06:38
+Barra do Garcas,State of Mato Grosso,1,1,1,0,"0,00",00:05:58
+Bayeux,State of Paraiba,1,1,1,13,"13,00",00:03:30
+Biguacu,State of Santa Catarina,1,1,1,6,"6,00",00:02:13
+Bom Despacho,State of Minas Gerais,1,1,1,0,"0,00",00:00:00
+Brotas,State of Sao Paulo,1,1,2,5,"2,50",00:00:21
+Bueno Brandao,State of Minas Gerais,1,0,1,2,"2,00",00:00:00
+Cachoeiras de Macacu,State of Rio de Janeiro,1,1,1,4,"4,00",00:01:52
+Caete,State of Minas Gerais,1,1,1,0,"0,00",00:00:18
+Cajuru,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Camanducaia,State of Minas Gerais,1,1,2,6,"3,00",00:04:10
+Campina Grande do Sul,State of Parana,1,1,1,1,"1,00",00:00:00
+Campo Formoso,State of Bahia,1,1,1,1,"1,00",00:00:00
+Campos Novos,State of Santa Catarina,1,1,1,0,"0,00",00:12:38
+Candeias,State of Bahia,1,1,1,2,"2,00",00:00:13
+Capanema,State of Parana,1,1,1,1,"1,00",00:00:00
+Casa Branca,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Casimiro de Abreu,State of Rio de Janeiro,1,1,1,2,"2,00",00:01:59
+Catu,State of Bahia,1,1,1,0,"0,00",00:01:56
+Cacapava do Sul,State of Rio Grande do Sul,1,1,1,0,"0,00",00:04:26
+Ceara-Mirim,State of Rio Grande do Norte,1,1,1,0,"0,00",00:00:00
+Cerquilho,State of Sao Paulo,1,1,1,5,"5,00",00:01:03
+Conceicao das Alagoas,State of Minas Gerais,1,1,1,2,"2,00",00:00:57
+Conchas,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Corbelia,State of Parana,1,0,1,2,"2,00",00:03:14
+Cristalina,State of Goias,1,1,1,1,"1,00",00:00:00
+Cruz Alta,State of Rio Grande do Sul,1,1,1,3,"3,00",00:01:02
+Curvelo,State of Minas Gerais,1,1,1,2,"2,00",00:00:27
+Dias d'Avila,State of Bahia,1,1,1,0,"0,00",00:00:00
+Duartina,State of Sao Paulo,1,0,1,2,"2,00",00:00:02
+Elias Fausto,State of Sao Paulo,1,1,1,2,"2,00",00:00:14
+Embu-Guacu,State of Sao Paulo,1,0,1,2,"2,00",00:00:04
+Estancia Velha,State of Rio Grande do Sul,1,1,5,9,"1,80",00:00:02
+Formosa,State of Goias,1,0,1,2,"2,00",00:00:02
+Francisco Beltrao,State of Parana,1,1,1,0,"0,00",00:00:00
+Garopaba,State of Santa Catarina,1,1,1,3,"3,00",00:00:27
+Goiana,State of Pernambuco,1,1,1,1,"1,00",00:00:00
+Goianapolis,State of Goias,1,1,1,0,"0,00",00:09:01
+Ibiuna,State of Sao Paulo,1,1,2,6,"3,00",00:00:54
+Igarapava,State of Sao Paulo,1,1,3,3,"1,00",00:00:00
+Iguaba Grande,State of Rio de Janeiro,1,1,1,3,"3,00",00:01:38
+Iguape,State of Sao Paulo,1,1,1,0,"0,00",00:00:46
+Itanhaem,State of Sao Paulo,1,1,2,6,"3,00",00:01:46
+Itaparica,State of Bahia,1,1,1,1,"1,00",00:00:06
+Itapema,State of Santa Catarina,1,0,5,22,"4,40",00:00:48
+Itapemirim,State of Espirito Santo,1,1,1,1,"1,00",00:00:00
+Itapira,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Itapissuma,State of Pernambuco,1,1,1,1,"1,00",00:00:00
+Itaquaquecetuba,State of Sao Paulo,1,1,1,2,"2,00",00:00:42
+Itaqui,State of Rio Grande do Sul,1,0,1,2,"2,00",00:00:06
+Ituverava,State of Sao Paulo,1,1,1,4,"4,00",00:00:33
+Ivaipora,State of Parana,1,1,2,9,"4,50",00:01:15
+Ivoti,State of Rio Grande do Sul,1,1,1,1,"1,00",00:00:00
+Icara,State of Santa Catarina,1,1,1,0,"0,00",00:00:57
+Jandira,State of Sao Paulo,1,1,1,7,"7,00",00:09:23
+Japeri,State of Rio de Janeiro,1,0,8,22,"2,75",00:00:47
+Jarinu,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Jaru,State of Rondonia,1,1,1,0,"0,00",00:00:00
+Jau,State of Sao Paulo,1,1,1,2,"2,00",00:00:27
+Joanopolis,State of Sao Paulo,1,1,1,3,"3,00",00:09:16
+Lagoa Vermelha,State of Rio Grande do Sul,1,1,1,2,"2,00",00:00:23
+Loanda,State of Parana,1,1,1,1,"1,00",00:00:00
+Louveira,State of Sao Paulo,1,1,1,2,"2,00",00:00:19
+Luz,State of Minas Gerais,1,1,1,0,"0,00",00:00:00
+Mairipora,State of Sao Paulo,1,1,1,5,"5,00",00:01:11
+Mangaratiba,State of Rio de Janeiro,1,1,1,1,"1,00",00:00:00
+Mineiros,State of Goias,1,1,1,0,"0,00",00:00:00
+Mirandopolis,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Mirassol,State of Sao Paulo,1,1,1,6,"6,00",00:19:40
+Monte Alegre,State of Para,1,1,1,0,"0,00",00:00:00
+Montenegro,State of Rio Grande do Sul,1,1,1,4,"4,00",00:01:33
+Moreno,State of Pernambuco,1,1,1,1,"1,00",00:00:00
+Natividade,State of Rio de Janeiro,1,1,1,1,"1,00",00:00:00
+Navirai,State of Mato Grosso do Sul,1,1,1,4,"4,00",00:01:07
+Nova Serrana,State of Minas Gerais,1,1,3,3,"1,00",00:00:00
+Nova Venecia,State of Espirito Santo,1,0,2,2,"1,00",00:00:00
+Novo Horizonte,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Palotina,State of Parana,1,1,1,0,"0,00",00:00:00
+Papagaios,State of Minas Gerais,1,0,1,1,"1,00",00:00:00
+Paranaiba,State of Mato Grosso do Sul,1,1,1,3,"3,00",00:00:55
+Paraty,State of Rio de Janeiro,1,0,1,2,"2,00",00:00:01
+Paraiba do Sul,State of Rio de Janeiro,1,1,2,9,"4,50",00:01:05
+Paty do Alferes,State of Rio de Janeiro,1,1,1,2,"2,00",00:09:28
+Paulo Afonso,State of Bahia,1,1,1,11,"11,00",00:21:49
+Pedreira,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Penha,State of Santa Catarina,1,1,1,3,"3,00",00:01:09
+Penapolis,State of Sao Paulo,1,1,1,8,"8,00",00:03:03
+Pereira Barreto,State of Sao Paulo,1,1,1,3,"3,00",00:00:22
+Peruibe,State of Sao Paulo,1,1,1,0,"0,00",00:25:55
+Piedade,State of Sao Paulo,1,1,3,6,"2,00",00:00:23
+Pilar,State of Alagoas,1,1,2,4,"2,00",00:00:08
+Pilar do Sul,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Pinheiro,State of Maranhao,1,1,1,2,"2,00",00:00:06
+Pirajui,State of Sao Paulo,1,1,1,6,"6,00",00:02:44
+Piraquara,State of Parana,1,1,9,28,"3,11",00:00:56
+Pirai,State of Rio de Janeiro,1,0,1,2,"2,00",00:00:02
+Pirai do Sul,State of Parana,1,1,4,4,"1,00",00:00:00
+Pombal,State of Paraiba,1,1,1,3,"3,00",00:08:29
+Porciuncula,State of Rio de Janeiro,1,1,9,15,"1,67",00:00:03
+Porto Belo,State of Santa Catarina,1,0,1,1,"1,00",00:00:00
+Portao,State of Rio Grande do Sul,1,0,7,16,"2,29",00:02:41
+Prata,State of Minas Gerais,1,1,1,0,"0,00",00:10:43
+Quirinopolis,State of Goias,1,1,1,1,"1,00",00:00:19
+Rancharia,State of Sao Paulo,1,0,2,14,"7,00",00:07:11
+Raposos,State of Minas Gerais,1,1,1,6,"6,00",00:01:06
+Regente Feijo,State of Sao Paulo,1,1,1,4,"4,00",00:00:29
+Ribeirao do Pinhal,State of Parana,1,1,1,0,"0,00",00:01:14
+Rio Claro,State of Rio de Janeiro,1,1,2,0,"0,00",00:00:00
+Rio Largo,State of Alagoas,1,1,1,7,"7,00",00:06:34
+Rolim de Moura,State of Rondonia,1,1,1,3,"3,00",00:00:30
+Rosario do Sul,State of Rio Grande do Sul,1,1,1,0,"0,00",00:00:00
+Salto de Pirapora,State of Sao Paulo,1,1,2,8,"4,00",00:02:07
+Salto do Lontra,State of Parana,1,1,1,1,"1,00",00:00:02
+Santa Adelia,State of Sao Paulo,1,1,1,2,"2,00",00:00:10
+Santa Cruz do Rio Pardo,State of Sao Paulo,1,1,1,4,"4,00",00:00:37
+Santa Fe do Sul,State of Sao Paulo,1,0,1,2,"2,00",00:00:01
+Santa Helena,State of Parana,1,1,1,1,"1,00",00:00:00
+Santa Helena de Goias,State of Goias,1,1,4,10,"2,50",00:00:31
+Santana do Paraiso,State of Minas Gerais,1,1,1,1,"1,00",00:00:00
+Santiago,State of Rio Grande do Sul,1,1,1,0,"0,00",00:02:59
+Santo Amaro,State of Bahia,1,1,1,0,"0,00",00:00:00
+Santo Antonio de Padua,State of Rio de Janeiro,1,1,1,0,"0,00",00:00:00
+Santo Antonio do Sudoeste,State of Parana,1,0,1,3,"3,00",00:00:42
+Santos Dumont,State of Minas Gerais,1,1,1,2,"2,00",00:00:20
+Sarandi,State of Parana,1,1,1,3,"3,00",00:02:33
+Sarzedo,State of Minas Gerais,1,1,1,2,"2,00",00:00:33
+Senges,State of Parana,1,0,1,1,"1,00",00:00:00
+Sidrolandia,State of Mato Grosso do Sul,1,1,1,1,"1,00",00:00:00
+Sombrio,State of Santa Catarina,1,0,1,3,"3,00",00:00:15
+Sao Borja,State of Rio Grande do Sul,1,1,1,0,"0,00",00:09:34
+Sao Fidelis,State of Rio de Janeiro,1,1,1,1,"1,00",00:00:00
+Sao Francisco,State of Minas Gerais,1,1,1,0,"0,00",00:00:00
+Sao Francisco de Paula,State of Rio Grande do Sul,1,1,1,0,"0,00",00:00:00
+Sao Jose de Mipibu,State of Rio Grande do Norte,1,1,2,2,"1,00",00:00:00
+Sao Jose do Rio Pardo,State of Sao Paulo,1,0,1,3,"3,00",00:00:15
+Sao Joao Batista,State of Santa Catarina,1,1,1,2,"2,00",00:00:18
+Sao Joao da Barra,State of Rio de Janeiro,1,0,1,4,"4,00",00:01:30
+Sao Manuel,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Sao Miguel Arcanjo,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Tangua,State of Rio de Janeiro,1,0,1,1,"1,00",00:00:07
+Taquarituba,State of Sao Paulo,1,1,2,10,"5,00",00:01:43
+Teodoro Sampaio,State of Sao Paulo,1,0,1,2,"2,00",00:00:02
+Tijucas,State of Santa Catarina,1,1,1,3,"3,00",00:01:09
+Tres Pontas,State of Minas Gerais,1,1,1,3,"3,00",00:01:54
+Tupaciguara,State of Minas Gerais,1,1,1,3,"3,00",00:01:10
+Ubatuba,State of Sao Paulo,1,1,2,7,"3,50",00:01:02
+Uruacu,State of Goias,1,0,3,8,"2,67",00:00:12
+Valinhos,State of Sao Paulo,1,0,1,2,"2,00",00:00:02
+Vespasiano,State of Minas Gerais,1,0,1,1,"1,00",00:00:00
+Viamao,State of Rio Grande do Sul,1,1,1,2,"2,00",00:00:12
+Viana,State of Espirito Santo,1,1,1,2,"2,00",00:00:21
+Aguas de Lindoia,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Abelardo Luz,State of Santa Catarina,1,0,1,2,"2,00",00:00:26
+Angatuba,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Anicuns,State of Goias,1,1,1,2,"2,00",00:07:23
+Apodi,State of Rio Grande do Norte,1,0,1,2,"2,00",00:00:27
+Aracuai,State of Minas Gerais,1,1,1,3,"3,00",00:01:59
+Armacao dos Buzios,State of Rio de Janeiro,1,1,1,2,"2,00",00:00:19
+Bambui,State of Minas Gerais,1,0,1,1,"1,00",00:00:02
+Brumadinho,State of Minas Gerais,1,1,2,3,"1,50",00:00:05
+Campos Gerais,State of Minas Gerais,1,1,3,5,"1,67",00:00:59
+Conceicao de Macabu,State of Rio de Janeiro,1,1,1,6,"6,00",00:01:13
+Inhambupe,State of Bahia,1,1,2,4,"2,00",00:00:26
+Juruaia,State of Minas Gerais,1,1,1,0,"0,00",00:04:23
+Machado,State of Minas Gerais,1,1,3,14,"4,67",00:00:37
+Mauriti,State of Ceara,1,1,1,0,"0,00",00:00:00
+Nao-Me-Toque,State of Rio Grande do Sul,1,0,1,2,"2,00",00:00:01
+Nepomuceno,State of Minas Gerais,1,1,3,9,"3,00",00:00:27
+Niquelandia,State of Goias,1,1,1,1,"1,00",00:00:00
+Nova Mutum,State of Mato Grosso,1,1,1,1,"1,00",00:00:00
+Palmitos,State of Santa Catarina,1,1,1,1,"1,00",00:00:00
+Paraisopolis,State of Minas Gerais,1,1,3,8,"2,67",00:00:59
+Parelhas,State of Rio Grande do Norte,1,1,1,0,"0,00",00:23:46
+Picarras,State of Santa Catarina,1,1,1,2,"2,00",00:00:21
+Pinhalzinho,State of Santa Catarina,1,0,2,16,"8,00",00:01:26
+Santa Cruz,State of Rio Grande do Norte,1,0,1,0,"0,00",00:00:00
+Sao Benedito,State of Ceara,1,1,1,0,"0,00",00:04:21
+Sao Sebastiao do Cai,State of Rio Grande do Sul,1,1,1,0,"0,00",00:03:22
+Serafina Correa,State of Rio Grande do Sul,1,1,1,4,"4,00",00:00:58
+Tapejara,State of Rio Grande do Sul,1,1,1,5,"5,00",00:04:28
+Tobias Barreto,State of Sergipe,1,1,1,0,"0,00",00:00:00
+Tres de Maio,State of Rio Grande do Sul,1,1,1,2,"2,00",00:00:17
+Vargem Grande Paulista,State of Sao Paulo,1,1,1,2,"2,00",00:00:15
+Fiumicino,Lazio,1,0,1,2,"2,00",00:00:01
+Creve Coeur,Missouri,1,1,1,2,"2,00",00:00:33
+Lake Butler,Florida,1,0,1,1,"1,00",00:00:00
+Lavras,State of Minas Gerais,1,1,1,7,"7,00",00:01:13
+Carazinho,State of Rio Grande do Sul,1,1,1,0,"0,00",00:00:00
+Itatiba,State of Sao Paulo,1,0,1,4,"4,00",00:00:50
+Aquiraz,State of Ceara,1,1,1,2,"2,00",00:00:27
+Belo Jardim,State of Pernambuco,1,0,1,0,"0,00",00:00:00
+Sao Jose de Mipibu,State of Rio Grande do Norte,1,1,1,6,"6,00",00:01:20
+Nova Odessa,State of Sao Paulo,1,1,1,2,"2,00",00:00:08
+Aracati,State of Ceara,1,1,1,6,"6,00",00:01:15
+Batatais,State of Sao Paulo,1,0,1,6,"6,00",00:00:59
+Pederneiras,State of Sao Paulo,1,1,11,30,"2,73",00:00:37
+Taquaritinga,State of Sao Paulo,1,1,1,2,"2,00",00:00:42
+Pirassununga,State of Sao Paulo,1,1,1,6,"6,00",00:02:48
+Matozinhos,State of Minas Gerais,1,1,1,2,"2,00",00:00:28
+Horizonte,State of Ceara,1,1,2,6,"3,00",00:00:44
+Rio Largo,State of Alagoas,1,0,1,2,"2,00",00:00:01
+Mandaguari,State of Parana,1,1,1,1,"1,00",00:00:00
+Aracruz,State of Espirito Santo,1,1,1,0,"0,00",00:07:54
+Ibiuna,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Tres Coracoes,State of Minas Gerais,1,1,1,3,"3,00",00:01:57
+Jacarei,State of Sao Paulo,1,0,1,10,"10,00",00:02:30
+Pindamonhangaba,State of Sao Paulo,1,1,1,0,"0,00",00:00:00
+Capivari,State of Sao Paulo,1,1,1,2,"2,00",00:00:21
+Extrema,State of Minas Gerais,1,1,1,1,"1,00",00:00:00
+Sao Francisco do Sul,State of Santa Catarina,1,1,1,0,"0,00",00:00:00
+Paranagua,State of Parana,1,1,2,5,"2,50",00:00:20
+Monte Mor,State of Sao Paulo,1,1,2,5,"2,50",00:06:49
+Morrinhos,State of Goias,1,1,1,1,"1,00",00:00:01
+Sao Jose da Lapa,State of Minas Gerais,1,1,1,1,"1,00",00:00:00
+Trindade,State of Goias,1,1,2,0,"0,00",00:01:13
+Cosmopolis,State of Sao Paulo,1,1,1,3,"3,00",00:00:49
+Novo Gama,State of Goias,1,1,1,3,"3,00",00:00:45
+Paraguacu Paulista,State of Sao Paulo,1,1,2,4,"2,00",00:00:27
+Santo Antonio do Descoberto,State of Goias,1,1,4,14,"3,50",00:01:05
+Mamanguape,State of Paraiba,1,1,1,0,"0,00",00:00:00
+Porto Feliz,State of Sao Paulo,1,0,2,5,"2,50",00:00:21
+Mococa,State of Sao Paulo,1,0,2,2,"1,00",00:00:01
+Ibitinga,State of Sao Paulo,1,1,1,2,"2,00",00:00:21
+Vinhedo,State of Sao Paulo,1,0,1,1,"1,00",00:00:09
+Piedade,State of Sao Paulo,1,1,1,1,"1,00",00:00:00
+Boituva,State of Sao Paulo,1,1,1,2,"2,00",00:00:11
+Pontal do Parana,State of Parana,1,1,1,0,"0,00",00:00:00
+Santa Cruz do Rio Pardo,State of Sao Paulo,1,1,1,3,"3,00",00:01:31
+Sao Goncalo do Amarante,State of Rio Grande do Norte,1,1,1,7,"7,00",00:01:33
+Araguari,State of Minas Gerais,1,1,1,2,"2,00",00:00:24
+Itaguai,State of Rio de Janeiro,1,1,1,12,"12,00",00:01:38
+Candeias,State of Bahia,1,1,2,0,"0,00",00:00:00
+Bayeux,State of Paraiba,1,1,1,2,"2,00",00:00:24
+Salgueiro,State of Pernambuco,1,1,1,9,"9,00",00:03:07
+Cidade Ocidental,State of Goias,1,1,1,2,"2,00",00:01:12
+Xangri-la,State of Rio Grande do Sul,1,1,1,4,"4,00",00:16:14
+Ibipora,State of Parana,1,1,1,0,"0,00",00:00:00
+Amargosa,State of Bahia,1,1,1,0,"0,00",00:01:13
+Resende,State of Rio de Janeiro,1,1,1,0,"0,00",00:00:00
+Jacupiranga,State of Sao Paulo,1,1,7,7,"1,00",00:00:00
+Miracatu,State of Sao Paulo,1,0,2,2,"1,00",00:00:00
+Caratinga,State of Minas Gerais,1,1,1,1,"1,00",00:00:00
