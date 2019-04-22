@@ -2,7 +2,7 @@
 
 ### O que é?
 
-Um objeto R que contém um data.frame onde cada entrada é um alerta recebido pelo projeto Tá de Pé. 
+Um objeto csv que contém um data.frame onde cada entrada é um alerta recebido pelo projeto Tá de Pé. 
 Os alertas têm início no dia 17/06/2017 e vão até o dia 01/02/2019. 
 
 *O arquivo alertas_enviados_respondidos.R está nessa pasta para fins de consulta da Transparência Brasil*  
