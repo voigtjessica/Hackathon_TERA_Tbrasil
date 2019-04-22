@@ -1,4 +1,4 @@
-## Guia para documentos da avaliação de impacto
+## Guia para documentos da hackathon
 
 Esse repositório contém informações geradas pelo projeto Tá de Pé da Tranparência Brasil entre o período 13/08/2017 até 15/02/2019. 
 Cada pasta contém um dataframe em Rdata e um arquivo .md com o codebook do banco.
